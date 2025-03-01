@@ -28,6 +28,7 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="50" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="VisualStudio" width="50" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="60"/> </a> &nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="Postman" width="50" height="60"/> </a> &nbsp;&nbsp;  
 </p>
 
 
