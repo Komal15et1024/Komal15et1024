@@ -5,14 +5,15 @@
 + 🎓 Gradueted with Master of Science Information Technology and Management | 🌐 Data & Design Enthusiast | 💻 Aspiring UX Designer and Business Data Analyst
 + 3 Years of Experience in SAP | Expertise in Stakeholder Management, Information Architecture, Requirement Gathering, Drawing Business Insights, SQL, and Excel
 
-<h3 align="left">🌱 What I’m currently learning...</h3>
+<h3 align="left">🌱 Skills & experience </h3>
 <ul>
-  <li><strong>Python Development:</strong> Building a strong foundation in Python for data manipulation and analysis.</li>
-  <li><strong>Data Warehousing:</strong> Understanding the architecture and principles behind effective data warehousing.</li>
-  <li><strong>SQL:</strong> Enhancing proficiency in SQL for seamless data querying and management.</li>
-  <li><strong>UX Research:</strong> Developing a deep understanding of user needs through research and usability testing.</li>
-  <li><strong>Wireframing & Prototyping:</strong> Strengthening skills in creating intuitive wireframes and interactive prototypes.</li>
-  <li><strong>UI Design:</strong> Enhancing expertise in designing visually appealing and user-friendly interfaces.</li>
+  <li><strong>Python Development:</strong> Experience in using Python for data manipulation, analysis, and scripting tasks.</li>
+  <li><strong>Data Warehousing:</strong> Familiar with data warehouse architecture and best practices for structured data storage.</li>
+  <li><strong>Data Visualization:</strong> Ability to present data insights through tools and techniques for clear visual storytelling.</li>
+  <li><strong>SQL:</strong> Proficient in writing complex queries for data retrieval, filtering, aggregation, and management.</li>
+  <li><strong>UX Research:</strong> Conducted user research, interviews, and usability testing to uncover user pain points and needs.</li>
+  <li><strong>Wireframing & Prototyping:</strong> Skilled in creating low- and high-fidelity wireframes and interactive prototypes using tools like Figma.</li>
+  <li><strong>UI Design:</strong> Experienced in designing aesthetically pleasing, accessible, and user-friendly digital interfaces.</li>
 </ul>
 
 <h3 align="left">Languages and Tools</h3>
